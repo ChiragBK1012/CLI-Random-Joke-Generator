@@ -1,5 +1,5 @@
 # Node dependencies (future-proof)
-node_modules
+node_modules/
 
 # Task data (local only)
 todos.json

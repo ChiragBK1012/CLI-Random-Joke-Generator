@@ -54,11 +54,11 @@ displays it beautifully in your terminal using colorful formatting.
 ## 📂 Project Structure
 
     CLI-Random-Joke-Generator/
-    ├── app.js            # Main application file
-    ├── package.json      # Node.js project metadata
-    ├── package-lock.json # Dependency lock file
-    ├── .gitignore        # Ignored files
-    └── README.md         # Project documentation
+    ├── app.js             # Main application file
+    ├── package.json       # Node.js project metadata
+    ├── package-lock.json  # Dependency lock file
+    ├── .gitignore         # Ignored files
+    └── README.md          # Project documentation
 
 ------------------------------------------------------------------------
 

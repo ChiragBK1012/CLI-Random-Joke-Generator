@@ -17,8 +17,8 @@ displays it beautifully in your terminal using colorful formatting.
 
 ## 🛠️ Tech Stack
 
--   **Node.js** -- Runtime environment\
--   **https** -- For making API requests\
+-   **Node.js** -- Runtime environment
+-   **https** -- For making API requests
 -   **Chalk** -- For colorful CLI output
 
 ------------------------------------------------------------------------

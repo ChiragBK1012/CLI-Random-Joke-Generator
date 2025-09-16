@@ -8,9 +8,9 @@ displays it beautifully in your terminal using colorful formatting.
 
 ## ✨ Features
 
--   🌐 Fetches a random joke from an external API\
--   😂 Displays joke setup and punchline\
--   🎨 Colorful terminal output using Chalk\
+-   🌐 Fetches a random joke from an external API
+-   😂 Displays joke setup and punchline
+-   🎨 Colorful terminal output using Chalk
 -   ⚡ Lightweight and easy to use
 
 ------------------------------------------------------------------------

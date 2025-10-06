@@ -45,7 +45,7 @@ displays it beautifully in your terminal using colorful formatting.
 
 4.  **Run the app**
 
-    ``` bash
+    ``` bash 
     node app.js
     ```
 
